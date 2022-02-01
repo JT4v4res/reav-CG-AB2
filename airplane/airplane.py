@@ -6,6 +6,7 @@ from OpenGL.GLUT import *
 from PIL import Image
 import os
 
+# control global variables
 airp_text_coord = 1.0
 plan_color = [(0.52, 0.52, 0.78, 1.0)]
 airp_color = [(0.3, 0.52, 0.18, 1.0)]
